@@ -1,10 +1,10 @@
 # URL Shortener
 
 ## Ini project apaan?
-Ini adalah project link shortener, solusi untuk link yang terlalu panjang yang sering bikin sakit mata.
+Ini adalah project link shortener, solusi untuk link terlalu panjang yang sering bikin sakit mata.
 
 ## Ngapain harus URL shortener ini?
-Kenapa tidak? Pengguna tidak perlu login atau subscribe.
+Kenapa ngga? Pengguna nggak perlu login atau subscribe.
 
 ## Apa keuntungan project ini?
 - Untuk pengguna: lebih cepat dan singkat.
